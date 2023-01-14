@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-st",
+  "version": "1.1.0",
+  "description": "Random String Message ST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stien95/random-str-msg-st.git"
+  },
+  "author": "Stien95 <stivenvillegas258@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stien95/random-str-msg-st/issues"
+  },
+  "homepage": "https://github.com/stien95/random-str-msg-st#readme",
+  "keywords": [],
+  "bin": {
+    "random-str-msg-st": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
